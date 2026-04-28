@@ -41,14 +41,10 @@ O experimento de submissão padronizada alcançou resultados sólidos para a com
 ![Quadro de Análise Comparativa](analise-comparativa.png)
 
 
-
-## 🔧 Como Executar
-1. Acesse o arquivo `trabalho+IA.pdf` neste diretório para consultar a documentação completa e o quadro de análise.
-2. Extraia o Prompt Estruturado em XML contido no documento.
-3. Submeta o prompt em qualquer um dos modelos listados para replicar o experimento e validar o HTML gerado.
-
+4. 
+*Figura 6: Representação da estrutura do prompt XML utilizado nos testes.*
 ![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-*Figura 3: Representação da estrutura do prompt XML utilizado nos testes.*
+
 
 ---
 [Voltar ao início](https://github.com/gustavoluan-dot/portfolio_gustavo_luan)
