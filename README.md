@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Luan | Software Engineering & Tech Analysis
 
 ## 📝 Sobre Mim
-Profissional em ascensão na área de tecnologia, atualmente com 18 anos e cursando o **2º semestre de tecnologia na Universidade de São Paulo (USP)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
+Profissional em ascensão na área de tecnologia, atualmente com 20 anos e cursando o **2º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cidade de São Paulo (UNICID)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
 
 Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
 
@@ -32,32 +32,32 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 ### 🏫 Atividades em Sala de Aula
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-|| Laboratório de Classificação Visual | Experimento prático de treinamento de modelo computacional para detecção de acessórios e análise crítica de viés, incluindo o arquivo `trabalho+diego.pdf`. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Classifica%C3%A7%C3%A3o-Visual) | |
-| Engenharia de Prompt | Documentação de prática avançada focada em instruções de alta precisão para LLMs com refinamento iterativo. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
-| Laboratório de Áudio | Composição de faixas musicais via IA generativa, explorando métrica, gênero e síntese de áudio estruturada. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
-| Engenharia de Software com Bubble.io | Desenvolvimento de aplicações No-Code com foco em dashboards e fluxos de dados. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Engenharia-de-Software-com-Bubble.io) |
-| Batalha-de-Modelos-Prompt-XML | Comparação técnica e avaliação de conformidade entre diferentes LLMs utilizando estruturação XML. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Batalha-de-Modelos-Engenharia-Prompt-XML) |
-| Atividade Manus AI | Desenvolvimento de aplicação interativa utilizando o ecossistema Manus para automação inteligente. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/atividade-manus-ai-main) |
+| Laboratório de Classificação Visual (Ética) | Experimento focado em viés algorítmico e classes de perfil (Liderança vs Operacional). Inclui o arquivo `trabalho+diego.pdf`[cite: 2]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Classifica%C3%A7%C3%A3o-Visual) |
+| Engenharia de Prompt | Documentação de prática avançada em instruções de alta precisão para LLMs com refinamento iterativo[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
+| Laboratório de Áudio | Composição de faixas musicais via IA generativa e síntese de áudio estruturada[cite: 2]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
+| Engenharia de Software (Bubble.io) | Desenvolvimento de aplicações No-Code com foco em dashboards e fluxos de dados[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Engenharia-de-Software-com-Bubble.io) |
+| Batalha de Modelos XML | Avaliação de conformidade entre diferentes LLMs utilizando estruturação XML[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Batalha-de-Modelos-Engenharia-Prompt-XML) |
+| Atividade Manus AI (FitMeet) | Solução de videoconferência interativa para treinos remotos desenvolvida com Jitsi Meet SDK[cite: 2]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/atividade-manus-ai-main) |
 
 ### 🛒 Desenvolvimento Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla". | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
+| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla"[cite: 1]. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
 
 ---
 
 # 🏗️ Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
+A organização deste repositório para facilitar a navegação técnica[cite: 1, 2]:
 
 ```text
 Portfólio_Gustavo_Luan/
 │
-├── README.md  ← principal
+├── README.md                          ← Principal
 │
-├── Laboratório-Visual-principal/  ← IA e Viés (com trabalho diego.pdf)[cite: 1]
-├── engenharia-de-prompt/          ← Otimização iterativa
-├── trabalho-musica/               ← Geração musical via IA
+├── Laboratório-Classificação-Visual/  ← Viés e Ética (trabalho+diego.pdf)[cite: 2]
+├── engenharia-de-prompt/              ← Otimização iterativa[cite: 1]
+├── trabalho-musica/                   ← Geração musical via IA[cite: 2]
 ├── Engenharia-de-Software-com-Bubble.io/
 ├── Batalha-de-Modelos-Engenharia-Prompt-XML/
-├── atividade-manus-ai-main/
-└── Projeto-ZaestraVitta-main/
+├── atividade-manus-ai-main/           ← FitMeet (Android/Kotlin)[cite: 1, 2]
+└── Projeto-ZaestraVitta-main/          ← E-commerce[cite: 1]
