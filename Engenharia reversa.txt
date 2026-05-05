@@ -1,9 +1,0 @@
-1: Entre as duas competências técnicas que se tornam indispensáveis seria: O Conhecimento adequado e apropriado da ferramenta (IA), saber aplicar (LLM, Deep Learning, Machine Learning, Agentes de IA e etc) o que ela pode fazer, como ela deve fazer e ate a onde ela deve fazer, é de extrema importância voce tambem saber realizar os devidos ajustes finos, basicamente voce saber fazer a manutenibilidade (fazer uma manutenção em algo que ja existe) de maneira correta e consistente.
-
-
-
-2: Engenharia reversa com IA é válida quando usada para aprender e adaptar ideias, não copiar diretamente.
-
-Vira plágio quando a interface e funcionalidades são reproduzidas quase iguais, sem inovação.
-
-A diferença está na transformação: melhorar, modificar ou aplicar em outro contexto.
