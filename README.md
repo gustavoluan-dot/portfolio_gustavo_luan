@@ -1,9 +1,9 @@
 # 👨‍💻 Gustavo Luan | Software Engineering & Tech Analysis
 
 ## 📝 Sobre Mim
-Profissional em ascensão na área de tecnologia, atualmente com 20 anos e cursando o **2º semestre de tecnologia (Análise e Desenvolvimento de Sistemas) na Universidade Cidade de São Paulo (UNICID)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
+Profissional em ascensão na área de tecnologia, atualmente com 20 anos e cursando o **2º semestre de tecnologia (Análise e Desenvolvimento de Sistemas) na Universidade Cidade de São Paulo (UNICID)**, no período noturno[cite: 1]. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos[cite: 1].
 
-Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
+Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos[cite: 1].
 
 ---
 
@@ -29,21 +29,31 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 
 # 📂 Portfólio de Projetos
 
+### 🏫 Atividades em Sala de Aula
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| Engenharia de Software com Bubble.io | Desenvolvimento de aplicações No-Code com foco em dashboards e fluxos de dados[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Engenharia-de-Software-com-Bubble.io) |
+| Batalha-de-Modelos-Engenharia-Prompt-XML | Comparação técnica e avaliação de conformidade entre diferentes LLMs utilizando estruturação XML[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Batalha-de-Modelos-Engenharia-Prompt-XML) |
+| Laboratório-Classificação-Visual | Treinamento de modelo computacional para processamento visual e análise crítica de viés algorítmico[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Classifica%C3%A7%C3%A3o-Visual) |
+| Atividade Manus AI | Desenvolvimento de aplicação interativa utilizando o ecossistema Manus para automação inteligente[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/atividade-manus-ai-main) |
+
 ### 🛒 Desenvolvimento Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla". | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
+| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla"[cite: 1]. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
 
 ---
 
 # 🏗️ Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
+Abaixo, a organização deste repositório para facilitar a navegação[cite: 1]:
 
 ```text
 Portfólio_Gustavo_Luan/
 │
 ├── README.md  ← principal
 │
+├── Engenharia-de-Software-com-Bubble.io/
+├── Batalha-de-Modelos-Engenharia-Prompt-XML/
+├── Laboratório-Classificação-Visual/
+├── atividade-manus-ai-main/
 └── Projeto-ZaestraVitta-main/
-    └── Projeto-ZaestraVitta-main/
-        └── README.md + arquivos...
