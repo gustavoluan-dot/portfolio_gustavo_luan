@@ -32,7 +32,7 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 ### 🛒 Desenvolvimento Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla". | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-principal) |
+| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla". | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Projeto-ZaestraVitta-main/Projeto-ZaestraVitta-main) |
 
 ---
 
@@ -44,5 +44,6 @@ Portfólio_Gustavo_Luan/
 │
 ├── README.md  ← principal
 │
-└── Projeto-ZaestraVitta-principal/
-    └── README.md + arquivos...
+└── Projeto-ZaestraVitta-main/
+    └── Projeto-ZaestraVitta-main/
+        └── README.md + arquivos...
