@@ -1,4 +1,13 @@
-# 🛠️ Minhas Ferramentas Favoritas
+# 👨‍💻 Gustavo Luan | Software Engineering & Tech Analysis
+
+## 📝 Sobre Mim
+Profissional em ascensão na área de tecnologia, atualmente com 18 anos e cursando o **2º semestre de tecnologia na Universidade de São Paulo (USP)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
+
+Atualmente, desempenho o papel de **Estagiário de Tecnologia na Diálogo & Engenharia**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
+
+---
+
+# 🛠️ Stack Tecnológica
 
 ### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,13 +22,11 @@
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Inteligência Artificial e Ciência de Dados
+### 🤖 Inteligência Artificial e Low-Code
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
 ![AI Studio](https://img.shields.io/badge/AI_Studio-E34F26?style=for-the-badge&logo=google&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-00599C?style=for-the-badge&logo=icloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -28,34 +35,25 @@
 ### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| Artefato 01 | Apresentação do Projeto sobre os Melhores Comércios do Brasil | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_01_MelhoresComercios) |
-| Artefato 02 | Dados sobre Minimundo: Melhores Comércios do Brasil | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_02) |
-| Artefato 04 | Sistema de avaliação e cadastro dos melhores negócios do Brasil | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_04) |
-| Artefato 05 | Parte.2 Sistema de avaliação e cadastro dos melhores negócios do Brasil | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_05) |
-| Consolidação Minimundo | Consolidação sobre o projeto de um minimundo com banco de dados | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Consolidacao_Minimundo) |
-| Diagrama Minimundo | Criação de um diagrama focado na explicação do minimundo | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Diagrama_Minimundo) |
-| Estudo de Caso | O desafio da "Eventos de Gala SA" | [Link do Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Estudo_De_Caso) |
+| Artefato 01 | Apresentação do Projeto sobre os Melhores Comércios do Brasil | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_01_MelhoresComercios) |
+| Artefato 02 | Dados sobre Minimundo: Melhores Comércios do Brasil | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Artefato_02) |
+| Estudo de Caso | Modelagem relacional e estruturação de eventos complexos | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/MBD_Estudo_De_Caso) |
 
 ### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| Corrida do Prompt | Dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão. | [Link do Projeto](https://github.com/gustavoluan-dot/engenharia-de-prompt) |
-| Laboratório de Classificação Visual | Utilizar o Teachable Machine para realizar o treinamento de um modelo de imagem simples e análise de viés. | [Ver link](https://github.com/gustavoluan-dot/Laboratorio-Visual) |
-| Batalhas de Modelos de Engenharia e Prompt | Avaliar a precisão técnica e a conformidade de diferentes LLMs. | [Link do Projeto](https://github.com/gustavoluan-dot/Batalha-de-Modelos-Engenharia-Prompt) |
-| Engenharia Reversa | Análise de competências técnicas indispensáveis em IA e exploração dos limites éticos da desconstrução de software. | [Ver link](https://github.com/gustavoluan-dot/Engenharia-Reversa) |
-| Projeto AI Studio | Desenvolvimento prático de um site responsivo através de Engenharia de Prompt no Google AI Studio. | [Link do Projeto](https://github.com/gustavoluan-dot/engenharia-de-prompt) |
-| Desenvolvimento App Videoconferência | Projeto de Criação de um App interativo com acesso à sala virtual via Manus. | [Link do Projeto](https://github.com/gustavoluan-dot/atividade-manus-ai-principal) |
+| Laboratório de Classificação Visual | Treinamento de modelo computacional e análise crítica de viés algorítmico. | [Ver Projeto](https://github.com/gustavoluan-dot/Laboratorio-Visual) |
+| Engenharia Reversa | Estudo sobre manutenibilidade de IA e os limites éticos da desconstrução de software. | [Ver Projeto](https://github.com/gustavoluan-dot/Engenharia-Reversa) |
+| Corrida do Prompt | Otimização de queries e técnicas avançadas de comunicação com LLMs. | [Ver Projeto](https://github.com/gustavoluan-dot/engenharia-de-prompt) |
 
 ### 🛒 Desenvolvimento Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| ZaestraVitta | E-commerce de produtos de limpeza focado em estruturação semântica HTML5 e estilização CSS3. | [Ver link](https://github.com/gustavoluan-dot/Projeto-ZaestraVitta-principal) |
+| ZaestraVitta | E-commerce focado em estruturação semântica HTML5 e arquitetura CSS "vanilla". | [Ver Projeto](https://github.com/gustavoluan-dot/Projeto-ZaestraVitta-principal) |
 
 ---
 
 # 🏗️ Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
-
 ```text
 Portfólio_Gustavo_Luan/
 │
@@ -64,37 +62,7 @@ Portfólio_Gustavo_Luan/
 ├── MBD_Artefato_01_MelhoresComercios/
 │   └── README.md + arquivos...
 │
-├── MBD_Artefato_02/
-│   └── README.md + arquivos...
-│
-├── MBD_Artefato_04/
-│   └── README.md + arquivos...
-│
-├── MBD_Artefato_05/
-│   └── README.md + arquivos...
-│
-├── MBD_Consolidacao_Minimundo/
-│   └── README.md + arquivos...
-│
-├── MBD_Diagrama_Minimundo/
-│   └── README.md + arquivos...
-│
-├── MBD_Estudo_De_Caso/
-│   └── README.md + arquivos...
-│
-├── SM1_Corrida_Do_Prompt/
-│   └── README.md + arquivos...
-│
 ├── SM2_Laboratorio_Classificacao_Visual/
-│   └── README.md + arquivos...
-│
-├── SM3_Batalhas_Modelos_Engenharia_Prompt/
-│   └── README.md + arquivos...
-│
-├── SM4_Engenharia_Reversa/
-│   └── README.md + arquivos...
-│
-├── SM5_Projeto_AI_Studio/
 │   └── README.md + arquivos...
 │
 └── Projeto-ZaestraVitta-principal/
