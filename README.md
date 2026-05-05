@@ -33,7 +33,7 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 ### 🤖 Projetos de Engenharia de Prompt e IA
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| Práticas de IA em Aula | Repositório externo dedicado à prática contínua de Engenharia de Prompt utilizando TypeScript[cite: 2]. | [Ver Repositório](https://github.com/gustavoluan-dot/Reposit-rios-de-projetos-feitos-em-aula-na-mat-ria-de-Engenharia-de-Prompt-e-aplica-es-em-IA) |
+| Práticas de IA em Aula | Detetive PIXEL RAIO-X. | [Ver Repositório](https://github.com/gustavoluan-dot/Reposit-rios-de-projetos-feitos-em-aula-na-mat-ria-de-Engenharia-de-Prompt-e-aplica-es-em-IA) |
 | Engenharia de Prompt | Documentação de prática avançada em instruções de alta precisão com refinamento iterativo. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
 | Laboratório de Áudio | Composição de faixas musicais via IA generativa e síntese de áudio estruturada. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
 
