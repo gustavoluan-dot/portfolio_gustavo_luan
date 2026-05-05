@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Luan | Software Engineering & Tech Analysis
 
 ## 📝 Sobre Mim
-Profissional em ascensão na área de tecnologia, atualmente com 20 anos e cursando o **2º semestre de tecnologia (Análise e Desenvolvimento de Sistemas) na Universidade Cidade de São Paulo (UNICID)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
+Profissional em ascensão na área de tecnologia, atualmente com 18 anos e cursando o **2º semestre de tecnologia na Universidade de São Paulo (USP)**, no período noturno. Minha atuação é focada na intersecção entre o desenvolvimento de software e a análise de dados, buscando sempre a eficiência algorítmica e a estruturação lógica de sistemas complexos.
 
 Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, onde aplico metodologias de automação e análise técnica para otimização de fluxos corporativos.
 
@@ -32,11 +32,11 @@ Atualmente, desempenho o papel de **Estagiário de Tecnologia na Project SA**, o
 ### 🏫 Atividades em Sala de Aula
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| Engenharia de Prompt | Documentação de prática avançada focada em instruções de alta precisão para LLMs com refinamento iterativo[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
-| Laboratório de Áudio | Composição de faixas musicais via IA generativa, explorando métrica, gênero e síntese de áudio estruturada[cite: 2]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
+| Laboratório de Classificação Visual | Experimento prático de treinamento de modelo computacional para detecção de acessórios e análise de viés, incluindo o arquivo `trabalho diego.pdf`[cite: 1]. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Visual-principal/Laborat%C3%B3rio-Visual-principal) |
+| Engenharia de Prompt | Documentação de prática avançada focada em instruções de alta precisão para LLMs com refinamento iterativo. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/engenharia-de-prompt) |
+| Laboratório de Áudio | Composição de faixas musicais via IA generativa, explorando métrica, gênero e síntese de áudio estruturada. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/trabalho-musica) |
 | Engenharia de Software com Bubble.io | Desenvolvimento de aplicações No-Code com foco em dashboards e fluxos de dados. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Engenharia-de-Software-com-Bubble.io) |
 | Batalha-de-Modelos-Prompt-XML | Comparação técnica e avaliação de conformidade entre diferentes LLMs utilizando estruturação XML. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Batalha-de-Modelos-Engenharia-Prompt-XML) |
-| Laboratório-Classificação-Visual | Treinamento de modelo computacional para processamento visual e análise crítica de viés algorítmico. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/Laborat%C3%B3rio-Classifica%C3%A7%C3%A3o-Visual) |
 | Atividade Manus AI | Desenvolvimento de aplicação interativa utilizando o ecossistema Manus para automação inteligente. | [Ver Repositório](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/atividade-manus-ai-main) |
 
 ### 🛒 Desenvolvimento Web
@@ -54,10 +54,10 @@ Portfólio_Gustavo_Luan/
 │
 ├── README.md  ← principal
 │
-├── engenharia-de-prompt/          ← Otimização iterativa[cite: 1]
-├── trabalho-musica/               ← Geração musical via IA[cite: 2]
+├── Laboratório-Visual-principal/  ← IA e Viés (com trabalho diego.pdf)[cite: 1]
+├── engenharia-de-prompt/          ← Otimização iterativa
+├── trabalho-musica/               ← Geração musical via IA
 ├── Engenharia-de-Software-com-Bubble.io/
 ├── Batalha-de-Modelos-Engenharia-Prompt-XML/
-├── Laboratório-Classificação-Visual/
 ├── atividade-manus-ai-main/
 └── Projeto-ZaestraVitta-main/
