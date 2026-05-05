@@ -40,7 +40,7 @@ O **FitMeet** unifica tudo isso em uma única tela. Ele conecta o professor e o 
 
 Antes de instalar o aplicativo, você pode testar a interface e a lógica do cronômetro e do contador através do nosso simulador web.
 
-🔗 **Link de Pré-visualização:** [Acessar Simulador FitMeet](https://8080-iif9w42puv5n5e6xw44ko-f4b15920.us1.manus.computer)
+🔗 Link de Pré-visualização: [Acessar Simulador FitMeet](https://fitmeetlive-4xnrgyxk.manus.space)
 
 > *Nota: O simulador web demonstra a UI e a lógica das ferramentas. Para testar a videoconferência real, compile o aplicativo Android.*
 
