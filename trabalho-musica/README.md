@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Mapa do Sentimento | [Estilo] | [Arquivo MP3](./Mapa%20do%20Sentimento.mp3) |
-| 02 | Minha Melhor Metade | [Estilo] | [Arquivo MP3](./Minha%20Melhor%20Metade.mp3) |
-| 03 | Minha Rota é Você | [Estilo] | [Arquivo MP3](./Minha%20Rota%20é%20Você.mp3) |
-| 04 | O Plano Perfeito | [Estilo] | [Arquivo MP3](./O%20Plano%20Perfeito.mp3) |
-| 05 | Sol do Teu Olhar | [Estilo] | [Arquivo MP3](./Sol%20do%20Teu%20Olhar.mp3) |
+| 01 | Mapa do Sentimento | Sertanejo / Bachata | [Arquivo MP3](./Mapa%20do%20Sentimento.mp3) |
+| 02 | Minha Melhor Metade | Sertanejo Universitário | [Arquivo MP3](./Minha%20Melhor%20Metade.mp3) |
+| 03 | Minha Rota é Você | Sertanejo / Arrocha | [Arquivo MP3](./Minha%20Rota%20é%20Você.mp3) |
+| 04 | O Plano Perfeito | Sertanejo Romântico | [Arquivo MP3](./O%20Plano%20Perfeito.mp3) |
+| 05 | Sol do Teu Olhar | Sertanejo Acústico | [Arquivo MP3](./Sol%20do%20Teu%20Olhar.mp3) |
 
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
