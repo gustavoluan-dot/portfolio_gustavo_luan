@@ -1,32 +1,33 @@
-# 💪 FitMeet — Treino Personalizado em Tempo Real
+# 💪 FitMeet | Solução de Treinamento Remoto em Tempo Real
 
 <div align="center">
   <img src="./preview/preview.png.png" alt="Interface FitMeet" width="900">
 </div>
 
 ## 📝 Descrição do Projeto
-O **FitMeet** é uma solução de videoconferência interativa projetada para otimizar a experiência de treinamentos remotos[cite: 2]. O foco do desenvolvimento foi mitigar a fragmentação do ecossistema de treino online, unificando camadas de comunicação e monitoramento em uma interface centralizada[cite: 2].
 
-### 🎯 O Problema que o FitMeet Resolve
-Atualmente, a experiência de treino à distância é fragmentada: o usuário depende de aplicações externas para vídeo, cronômetros independentes e registros manuais de performance[cite: 2]. O FitMeet consolida essas necessidades, integrando vídeo em alta definição com ferramentas de controle técnico em tempo real[cite: 2].
+O **FitMeet** é uma aplicação de videoconferência interativa arquitetada para otimizar a dinâmica de treinamentos remotos. O sistema resolve o problema da fragmentação de ferramentas de terceiros ao unificar comunicação de vídeo em alta definição, cronometragem e monitoramento de performance em uma única interface centralizada.
 
-## 🚀 Tecnologias Utilizadas
-A arquitetura da solução utiliza um stack focado em estabilidade e baixa latência[cite: 2]:
+## 🚀 Stack Tecnológico
 
-*   **Linguagem Principal:** Kotlin[cite: 2].
-*   **Android SDK:** Nível 34[cite: 2].
-*   **Comunicação de Vídeo:** Jitsi Meet SDK 9.2.2 (implementação WebRTC)[cite: 2].
-*   **Interface (UI):** Material Design 3 e ViewBinding[cite: 2].
-*   **Lógica de Sincronia:** Handler e Runnable para gerenciamento de threads do cronômetro[cite: 2].
-*   **Infraestrutura de Sinalização:** meet.jit.si[cite: 2].
+A arquitetura da solução prioriza estabilidade de conexão e baixa latência de transmissão:
+
+* **Linguagem Principal:** Kotlin
+* **Framework:** Android SDK (API Level 34)
+* **Comunicação de Vídeo:** Jitsi Meet SDK 9.2.2 (Implementação WebRTC)
+* **Infraestrutura de Sinalização:** `meet.jit.si`
+* **Interface (UI):** Material Design 3 e ViewBinding
+* **Lógica de Concorrência:** Utilização de `Handler` e `Runnable` para o gerenciamento assíncrono das threads do cronômetro.
 
 ## 🏗️ Estrutura do Repositório
-A organização segue os padrões de projetos mobile estruturados[cite: 1]:
+
+A organização do código-fonte segue o padrão estrutural de projetos nativos Android:
 
 ```text
 atividade-manus-ai-main/
-├── app/               ← Módulos de código fonte e lógica de negócio[cite: 1]
-├── preview/           ← Assets de visualização (preview.png.png)[cite: 1]
-├── gradle/wrapper/    ← Gerenciamento de dependências e build[cite: 1]
-├── build.gradle       ← Configurações globais de compilação[cite: 1]
-└── qrcode_preview.png ← Recurso de acesso rápido ao aplicativo[cite: 1]
+│
+├── app/                ← Módulos de código-fonte e lógica de negócio
+├── preview/            ← Assets de documentação visual
+├── gradle/wrapper/     ← Gerenciamento de artefatos de build
+├── build.gradle        ← Configurações globais de compilação
+└── qrcode_preview.png  ← Endpoint de acesso rápido ao aplicativo
