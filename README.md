@@ -56,7 +56,7 @@ Meu principal desejo profissional é consolidar expertise na engenharia de softw
 ### 📄 Perfil Profissional
 | Documento | Descrição | Link |
 | :--- | :--- | :--- |
-| Currículo Profissional | Histórico de experiências, formação acadêmica e competências técnicas estruturado em Markdown. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/cv) |
+| Currículo Profissional | Histórico de experiências, formação acadêmica e competências técnicas estruturado. | [Ver Projeto](https://github.com/gustavoluan-dot/portfolio-gustavo-luan-araujo-santos/tree/main/cv) |
 
 ---
 
